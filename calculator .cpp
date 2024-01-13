@@ -1,5 +1,5 @@
  // Codesoft Internship:-
-        //Simple Calculator made by KALYANI SINGH.....
+        //Simple Calculator made by pooja kumari.....
 
 #include <iostream>
 using namespace std;
